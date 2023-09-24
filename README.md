@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋 I'm Ezequiel.</h1>
-<h3 align="center">A proactive programmer and data analyst from Argentina.</h3>
+<h3 align="center">A proactive developer and data analyst from Argentina.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jezbravo&label=Profile%20views&color=0e75b6&style=flat" alt="jezbravo" /> </p>
 

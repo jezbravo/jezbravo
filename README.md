@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jezbravo&label=Profile%20views&color=0e75b6&style=flat" alt="jezbravo" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jezbravo/rising-sun](https://github.com/jezbravo/rising-sun)
+- 👨‍💻 Part of my work is found in: [https://github.com/jezbravo/rising-sun](https://github.com/jezbravo/rising-sun)
 
 <p align="left">
 </p>
